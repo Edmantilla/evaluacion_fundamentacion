@@ -1,0 +1,25 @@
+/* Crear una interfaz con HTML y CSS de forma que el usuario pueda seleccionar el ejercicio
+a evaluar. Cada punto se debe separar por módulos y cada ejercicio debe ir comentado
+donde se logre evidenciar que el aprendiz entiende y logra expresar sus código con
+facilidad. */
+
+/* Estilos generales */
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3{
+    color: #333;
+}
+
+.contenedor-principal{
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}   
